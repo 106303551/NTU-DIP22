@@ -1,4 +1,4 @@
-# Final - IMplementation of "GrabCut" | Interactive Foreground Extraction using Iterated Graph Cuts
+# Final - Implementation of "GrabCut" | Interactive Foreground Extraction using Iterated Graph Cuts
 
 ## Intro
 請詳閱 [Final_Intro](./Final_Intro.pdf)
